@@ -1,0 +1,2 @@
+# TradingPython
+Aktier Python
